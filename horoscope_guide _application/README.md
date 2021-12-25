@@ -1,4 +1,4 @@
-# new_flutter
+# mobile-application-of-the-horoscope-with-flutter
 
 A new Flutter project.
 
