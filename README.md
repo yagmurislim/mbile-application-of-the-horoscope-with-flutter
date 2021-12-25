@@ -1,1 +1,1 @@
-# mbile-application-of-the-horoscope-with-flutter
+# mobile-application-of-the-horoscope-with-flutter
